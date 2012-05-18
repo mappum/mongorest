@@ -1,0 +1,16 @@
+{
+  "author": "Matt Bell <mappum@gmail.com> (mappum)",
+  "name": "mongorest",
+  "description": "mongorest is Connect/Express middleware that lets you easily provide a REST API for your MongoDB data.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+  	"mongoose": "*",
+  	"mongodb": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
